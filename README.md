@@ -1,14 +1,18 @@
-# Data-Scientist-Salary-prediction
+## Data-Scientist-Salary-prediction
 The major purpose of this project is to examine the data scientist job dataset and extract useful information about the technologies required in the data science business, as well as the compensation ranges for various positions
 
-# Models:
+## Database Creation
+
+Created a SQLite3 normalised database from the original dataframe.
+
+## Models:
 • Linear Regression
 • Lasso Regression
 • Ridge Regression
 • SVR
 • Decision Tree
 • Random Forest
-# Data
+## Data
 • Company
 • Job title
 • Salary
@@ -20,10 +24,10 @@ The major purpose of this project is to examine the data scientist job dataset a
 • Age
 • Technologies, Degree.
 
-# 
+## 
 Run sunburst plot in your local IDE 
 
-# 
+## 
 
 After going through the dataset we are assuming the average salary is the target variable and we are trying to predict the target variable using various regression algorithms.\n
 
