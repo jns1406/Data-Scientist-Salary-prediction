@@ -38,3 +38,6 @@ To perform regression we need to pre-process the data. Pre-processing of data in
 • Feature selection (using corelation matrix)
 • Handling categorical variables
 After pre-processing we are splitting the data into train and test dataset(70:30 ratio).
+
+
+> End
